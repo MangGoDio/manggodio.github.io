@@ -6,3 +6,16 @@ body {
 a {
     color: #fff;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    margin: 20px 0 0 20px;
+    font-size: 20px;
+}
+
+ul>li {
+    line-height: 30px;
+}
